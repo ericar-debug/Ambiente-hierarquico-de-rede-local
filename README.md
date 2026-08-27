@@ -83,8 +83,6 @@ Não foram aplicadas configurações de:
   
 As interfaces conectadas foram habilitadas utilizando no shutdown.
 
-Foram inseridos os módulos de fibra GLC-LH-SMD nos equipamentos correspondentes.
-
 <img width="693" height="703" alt="image" src="https://github.com/user-attachments/assets/940b5449-a4b4-4508-b527-461eb19e23c5" />
 
 

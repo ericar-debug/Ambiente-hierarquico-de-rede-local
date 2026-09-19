@@ -14,7 +14,8 @@ Esta atividade consiste em montar, dentro do Packet Tracer, uma rede local organ
 
 ## Topologia da rede
 
-<img width="554" height="411" alt="image" src="https://github.com/user-attachments/assets/ec7e1a8f-cb98-4313-bedf-3b033980c7f5" />
+<img width="960" height="668" alt="{45430ADD-4B21-4BB0-B8EE-C866DFCEA251}" src="https://github.com/user-attachments/assets/75de11cc-3314-47ea-ad5d-610b6d1cef16" />
+
 
 
 ## Equipamentos da rede
